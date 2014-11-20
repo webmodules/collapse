@@ -1,0 +1,18 @@
+{
+  "name": "collapse",
+  "version": "1.0.0",
+  "description": "Collapses Selection and Range objects in a cross-browser way",
+  "tags": [
+    "collapse",
+    "range",
+    "selection",
+    "browser",
+    "webmodule"
+  ],
+  "dependencies": {},
+  "author": "Marco Aurelio",
+  "repository": {
+    "git": "git@github.com:webmodules/collapse.git"
+  },
+  "bugs": "https://github.com/webmodules/collapse/issues"
+}
