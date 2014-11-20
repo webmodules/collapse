@@ -1,6 +1,6 @@
 {
   "name": "collapse",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Collapses Selection and Range objects in a cross-browser way",
   "tags": [
     "collapse",
