@@ -19,4 +19,4 @@ collapse.toStart = function(o) {
   collapse(o, true);
 }
 
-exports = collapse;
+module.exports = collapse;
